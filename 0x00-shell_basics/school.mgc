@@ -1,3 +1,3 @@
 #!/bin/bash
-file-C-m 
+file -C -m 
 
