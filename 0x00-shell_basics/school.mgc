@@ -1,1 +1,2 @@
-file -C-m
+#!/bin/bash
+file -C -m
